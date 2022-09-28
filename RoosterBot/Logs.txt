@@ -1,0 +1,85 @@
+[28-09-2022 22:04:43] FileTools: DW464164.txt
+[28-09-2022 22:04:46] FileTools: DW464164.txt
+[28-09-2022 22:04:46] FileTools: DW464164.txt
+[28-09-2022 22:04:47] FileTools: DW464164.txt
+[28-09-2022 22:04:52] FileTools: DW464164 - Copy.txt
+[28-09-2022 22:04:52] FileTools: DW464164.txt
+[28-09-2022 22:16:02] FileTools: DW464164.txt
+[28-09-2022 22:16:02] Run: List size: 1
+[28-09-2022 22:16:20] FileTools: DW464164 - Copy.txt
+[28-09-2022 22:16:20] FileTools: DW464164.txt
+[28-09-2022 22:16:20] Run: List size: 2
+[28-09-2022 22:16:21] FileTools: DW464164 - Copy.txt
+[28-09-2022 22:16:21] FileTools: DW464164.txt
+[28-09-2022 22:16:21] Run: List size: 2
+[28-09-2022 22:16:22] FileTools: DW464164 - Copy.txt
+[28-09-2022 22:16:22] FileTools: DW464164.txt
+[28-09-2022 22:16:22] Run: List size: 2
+[28-09-2022 22:17:45] FileTools: DW464164 - Copy.txt
+[28-09-2022 22:17:45] FileTools: DW464164.txt
+[28-09-2022 22:17:45] Run: List size: 2
+[28-09-2022 22:17:47] FileTools: DW464164 - Copy.txt
+[28-09-2022 22:17:47] FileTools: DW464164.txt
+[28-09-2022 22:17:47] Run: List size: 2
+[28-09-2022 22:22:24] FileTools: DW464164 - Copy.txt
+[28-09-2022 22:22:24] FileTools: DW464164.txt
+[28-09-2022 22:22:24] Run: List size: 2
+[28-09-2022 22:29:03] FileTools: DW464164.txt
+[28-09-2022 22:29:03] Run: Input files list size: 1
+[28-09-2022 22:30:28] FileTools: DW464164.txt
+[28-09-2022 22:30:28] Run: Input files list size: 1
+[28-09-2022 22:32:27] FileTools: DW464164.txt
+[28-09-2022 22:32:27] Run: Input files list size: 1
+[28-09-2022 22:32:27] Run: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:32:32] FileTools: #OLD DWMM YYYY.txt
+[28-09-2022 22:32:32] Run: Input files list size: 1
+[28-09-2022 22:33:50] FileTools: #OLD DWMM YYYY.txt
+[28-09-2022 22:33:50] Run: No valid DW files were present to read.
+[28-09-2022 22:35:50] Run: No valid DW files were present to read.
+[28-09-2022 22:35:58] Run: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:37:30] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:37:48] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:38:47] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:38:49] Run: No valid DW files were present to read.
+[28-09-2022 22:41:49] Run: No valid DW files were present to read.
+[28-09-2022 22:41:57] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:42:28] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:43:13] Run: No valid DW files were present to read.
+[28-09-2022 22:43:23] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:43:28] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:43:29] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:43:30] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:47:28] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:47:33] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:48:00] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:48:01] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:48:02] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:48:27] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:48:40] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:50:57] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:56:19] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:57:33] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:57:43] Run: No valid DW files were present to read.
+[28-09-2022 22:57:54] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:58:07] Run: No valid DW files were present to read.
+[28-09-2022 22:58:13] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 22:58:33] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:02:21] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:03:36] Run: No valid DW files were present to read.
+[28-09-2022 23:03:41] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:07:57] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:10:58] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:11:13] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:16:31] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:16:39] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:17:31] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:17:46] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:33:20] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:34:33] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:35:30] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:35:49] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:38:33] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:39:41] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:40:05] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:40:46] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
+[28-09-2022 23:55:54] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
