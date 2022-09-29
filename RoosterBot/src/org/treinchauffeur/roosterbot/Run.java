@@ -10,6 +10,12 @@ import org.treinchauffeur.roosterbot.misc.Logger;
 import org.treinchauffeur.roosterbot.obj.Shift;
 
 import net.fortuna.ical4j.model.Date;
+import net.fortuna.ical4j.model.Property;
+import net.fortuna.ical4j.model.component.VEvent;
+import net.fortuna.ical4j.model.parameter.Value;
+import net.fortuna.ical4j.model.property.CalScale;
+import net.fortuna.ical4j.model.property.ProdId;
+import net.fortuna.ical4j.model.property.Version;
 
 /**
  * 
@@ -396,6 +402,19 @@ public class Run {
 			
 			Logger.log(TAG, "Finished scanning "+toRead.getAbsolutePath());
 			
+			VEvent mondayEvent = new VEvent(new Date(monday.getTime()), mondayTitle); //TODO FIX THIS SHIT or use different API... This one sucks.
+			VEvent tuesdayEvent = new VEvent(new Date(tuesday.getTime()), tuesdayTitle);
+			VEvent wednesdayEvent = new VEvent(new Date(wednesday.getTime()), wednesdayTitle);
+			VEvent thursdayEvent = new VEvent(new Date(thursday.getTime()), thursdayTitle);
+			VEvent fridayEvent = new VEvent(new Date(friday.getTime()), fridayTitle);
+			VEvent saturdayEvent = new VEvent(new Date(saturday.getTime()), saturdayTitle);
+			VEvent sundayEvent = new VEvent(new Date(sunday.getTime()), sundayTitle);
+			
+			// Create calendar
+			net.fortuna.ical4j.model.Calendar calendar = new net.fortuna.ical4j.model.Calendar();
+			calendar.getProperties().add(new ProdId("-//Ben Fortuna//iCal4j 1.0//EN"));
+			calendar.getProperties().add(Version.VERSION_2_0);
+			calendar.getProperties().add(CalScale.GREGORIAN);
 			
 			scanner.close();
 		} catch (FileNotFoundException e) {

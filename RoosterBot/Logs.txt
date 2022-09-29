@@ -249,3 +249,41 @@
 [29-09-2022 21:11:20] Run: Mcn Es 104 16:01-23:19
 [29-09-2022 21:11:20] Run: //////////// END OF WEEK ////////////
 [29-09-2022 21:11:20] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:18:23] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:18:37] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:21:17] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:21:17] Run: DW FOR 464164 L KLACZYNSKI:
+[29-09-2022 21:21:17] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:21:17] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:21:17] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:21:17] Run: CURS 08:00-16:00
+[29-09-2022 21:21:17] Run: R
+[29-09-2022 21:21:17] Run: R
+[29-09-2022 21:21:17] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:21:17] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:21:17] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:21:17] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:27:47] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:27:47] Run: DW FOR 464164 L KLACZYNSKI:
+[29-09-2022 21:27:47] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:27:47] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:27:47] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:27:47] Run: CURS 08:00-16:00
+[29-09-2022 21:27:47] Run: R
+[29-09-2022 21:27:47] Run: R
+[29-09-2022 21:27:47] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:27:47] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:27:47] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:27:47] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:29:24] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:29:24] Run: DW FOR 464164 L KLACZYNSKI:
+[29-09-2022 21:29:24] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:29:24] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:29:24] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:29:24] Run: CURS 08:00-16:00
+[29-09-2022 21:29:24] Run: R
+[29-09-2022 21:29:24] Run: R
+[29-09-2022 21:29:24] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:29:24] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:29:24] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:29:24] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
