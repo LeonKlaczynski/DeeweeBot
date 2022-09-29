@@ -83,3 +83,169 @@
 [28-09-2022 23:40:05] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
 [28-09-2022 23:40:46] Run: Using file: C:\Users\Leonk\eclipse-workspace\RoosterBot\input\DW464164.txt
 [28-09-2022 23:55:54] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 00:10:59] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:41:06] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:41:28] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:42:44] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:42:59] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:48:55] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:49:04] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:54:00] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:54:22] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 19:54:31] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:08:46] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:10:16] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:14:12] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:14:40] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:15:24] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:17:11] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:17:18] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:17:22] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:18:38] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:19:02] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:20:19] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:20:24] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:20:32] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:20:37] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:20:44] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:23:10] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:23:17] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:23:51] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:26:03] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:32:09] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:32:52] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164old.txt
+[29-09-2022 20:33:04] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164old.txt
+[29-09-2022 20:33:21] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164old.txt
+[29-09-2022 20:33:27] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:33:55] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:35:48] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:35:56] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:36:08] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:36:27] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:37:04] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:41:07] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:42:09] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:44:34] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:44:40] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:47:25] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:47:50] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:48:44] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:51:16] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:51:17] Run:   R -
+[29-09-2022 20:51:26] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:51:26] Run: CURS 08:00-16:00
+[29-09-2022 20:51:31] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:51:31] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 20:52:15] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:52:16] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 20:52:23] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:52:23] Run: R
+[29-09-2022 20:52:38] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:52:38] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 20:57:22] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:57:22] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 20:57:22] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 20:58:50] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:58:50] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 20:58:50] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 20:59:29] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 20:59:29] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 20:59:29] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 20:59:29] Run: CURS 08:00-16:00
+[29-09-2022 21:00:50] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:00:50] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:00:50] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:00:50] Run: CURS 08:00-16:00
+[29-09-2022 21:00:50] Run: R
+[29-09-2022 21:02:20] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:02:20] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:02:20] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:02:20] Run: CURS 08:00-16:00
+[29-09-2022 21:02:20] Run: R
+[29-09-2022 21:02:20] Run: R
+[29-09-2022 21:02:20] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:03:02] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:03:02] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:03:02] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:03:02] Run: CURS 08:00-16:00
+[29-09-2022 21:03:02] Run: R
+[29-09-2022 21:03:02] Run: R
+[29-09-2022 21:03:02] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:03:02] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:04:40] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:04:41] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:04:41] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:04:41] Run: CURS 08:00-16:00
+[29-09-2022 21:04:41] Run: R
+[29-09-2022 21:04:41] Run: R
+[29-09-2022 21:04:41] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:04:41] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:04:41] Run: ////////////END OF WEEK////////////
+[29-09-2022 21:05:16] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:05:16] Run: ////////////START OF WEEK////////////
+[29-09-2022 21:05:16] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:05:16] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:05:16] Run: CURS 08:00-16:00
+[29-09-2022 21:05:16] Run: R
+[29-09-2022 21:05:16] Run: R
+[29-09-2022 21:05:16] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:05:16] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:05:16] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:05:32] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:05:32] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:05:32] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:05:32] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:05:32] Run: CURS 08:00-16:00
+[29-09-2022 21:05:32] Run: R
+[29-09-2022 21:05:32] Run: R
+[29-09-2022 21:05:32] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:05:32] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:05:32] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:06:33] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:06:33] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:06:33] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:06:33] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:06:33] Run: CURS 08:00-16:00
+[29-09-2022 21:06:33] Run: R
+[29-09-2022 21:06:33] Run: R
+[29-09-2022 21:06:33] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:06:33] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:06:33] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:06:41] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:08:17] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:08:17] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:08:27] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:08:27] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:08:27] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:08:27] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:08:27] Run: CURS 08:00-16:00
+[29-09-2022 21:08:27] Run: R
+[29-09-2022 21:08:27] Run: R
+[29-09-2022 21:08:27] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:08:27] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:08:27] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:08:27] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:11:06] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:11:06] Run: DW FOR 464164 L KLACZYNSKI
+[29-09-2022 21:11:06] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:11:06] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:11:06] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:11:06] Run: CURS 08:00-16:00
+[29-09-2022 21:11:06] Run: R
+[29-09-2022 21:11:06] Run: R
+[29-09-2022 21:11:06] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:11:06] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:11:06] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:11:06] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:11:19] Run: Using file: C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt
+[29-09-2022 21:11:20] Run: DW FOR 464164 L KLACZYNSKI:
+[29-09-2022 21:11:20] Run: //////////// START OF WEEK ////////////
+[29-09-2022 21:11:20] Run: Mcn Es 2 04:31-11:19
+[29-09-2022 21:11:20] Run: Mcn Es E662 08:00-16:00
+[29-09-2022 21:11:20] Run: CURS 08:00-16:00
+[29-09-2022 21:11:20] Run: R
+[29-09-2022 21:11:20] Run: R
+[29-09-2022 21:11:20] Run: Mcn Es 106 15:31-00:19
+[29-09-2022 21:11:20] Run: Mcn Es 104 16:01-23:19
+[29-09-2022 21:11:20] Run: //////////// END OF WEEK ////////////
+[29-09-2022 21:11:20] Run: Finished scanning C:\Users\Leonk\git\DeeweeBot\RoosterBot\input\DW464164.txt

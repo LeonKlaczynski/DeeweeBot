@@ -18,19 +18,21 @@ public class Shift {
 	 * @
 	 */
 
+	private Driver driver;
 	private int weekNumber;
 	private int yearNumber;
 	private Date baseDate; //used for R (rest / day off) days
 	private Date startTime;
 	private Date endTime;
-	private int shiftNumber;
-	private int shiftNumberModifier;
+	private String shiftNumber;
+	private String shiftNumberModifier;
 	private String profession;
 	private String location;
 	
-	public Shift(int weekNumber, int yearNumber, Date baseDate, Date startTime, Date endTime, int shiftNumber,
-			int shiftNumberModifier, String profession, String location) {
+	public Shift(Driver driver, int weekNumber, int yearNumber, Date baseDate, Date startTime, Date endTime, String shiftNumber,
+			String shiftNumberModifier, String profession, String location) {
 		super();
+		this.driver = driver;
 		this.weekNumber = weekNumber;
 		this.yearNumber = yearNumber;
 		this.baseDate = baseDate;
@@ -40,6 +42,20 @@ public class Shift {
 		this.shiftNumberModifier = shiftNumberModifier;
 		this.profession = profession;
 		this.location = location;
+	}
+	
+	public Shift() {
+		super();
+		this.driver = null;
+		this.weekNumber = -1;
+		this.yearNumber = -1;
+		this.baseDate = new Date();
+		this.startTime = new Date();
+		this.endTime = new Date();
+		this.shiftNumber = "!!!";
+		this.shiftNumberModifier = "!!!";
+		this.profession = "!!!";
+		this.location = "!!!";
 	}
 
 	/**
@@ -115,28 +131,28 @@ public class Shift {
 	/**
 	 * @return the shiftNumber
 	 */
-	public int getShiftNumber() {
+	public String getShiftNumber() {
 		return shiftNumber;
 	}
 
 	/**
 	 * @param shiftNumber the shiftNumber to set
 	 */
-	public void setShiftNumber(int shiftNumber) {
+	public void setShiftNumber(String shiftNumber) {
 		this.shiftNumber = shiftNumber;
 	}
 
 	/**
 	 * @return the shiftNumberModifier
 	 */
-	public int getShiftNumberModifier() {
+	public String getShiftNumberModifier() {
 		return shiftNumberModifier;
 	}
 
 	/**
 	 * @param shiftNumberModifier the shiftNumberModifier to set
 	 */
-	public void setShiftNumberModifier(int shiftNumberModifier) {
+	public void setShiftNumberModifier(String shiftNumberModifier) {
 		this.shiftNumberModifier = shiftNumberModifier;
 	}
 
